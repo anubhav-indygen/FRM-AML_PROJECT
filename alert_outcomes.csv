@@ -1,0 +1,9 @@
+alert_id,transactionid,trigger_rules,risk_score,created_at,analyst_decision,customer_confirmation,final_label
+ALERT_000000,0,,0,2026-04-02 16:06:10.512758,PENDING,UNKNOWN,unknown_pending
+ALERT_000001,1,rule_rapid_repeat,3,2026-04-02 16:06:10.512758,PENDING,UNKNOWN,unknown_pending
+ALERT_000002,2,rule_rapid_repeat,3,2026-04-02 16:06:10.512758,PENDING,UNKNOWN,unknown_pending
+ALERT_000003,3,,0,2026-04-02 16:06:10.512758,PENDING,UNKNOWN,unknown_pending
+ALERT_000004,4,rule_rapid_repeat,3,2026-04-02 16:06:10.512758,PENDING,UNKNOWN,unknown_pending
+ALERT_000005,5,,0,2026-04-02 16:06:10.512758,PENDING,UNKNOWN,unknown_pending
+ALERT_000006,6,,0,2026-04-02 16:06:10.512758,PENDING,UNKNOWN,unknown_pending
+ALERT_000007,7,,0,2026-04-02 16:06:10.512758,PENDING,UNKNOWN,unknown_pending

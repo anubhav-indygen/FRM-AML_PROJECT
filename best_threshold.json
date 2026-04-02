@@ -1,0 +1,6 @@
+{
+    "high_threshold": 5,
+    "medium_threshold": 2,
+    "alert_rate": 0.375,
+    "noise_score": 0.75
+}
